@@ -1,0 +1,8 @@
+gb_code = {
+    'android': None,
+    'ios': None
+}
+jp_code = {
+    'android': None,
+    'ios': None
+}
